@@ -85,7 +85,7 @@ map.on('load', function () {
                         ...Object.entries(countryData).flatMap(([name, info]) => [name, info.color]),
                         "#AAAAAA" // Default color for unlisted countries
                     ],
-                    'fill-opacity': 0.95
+                    'fill-opacity': 1.0
                 }
             });
 
