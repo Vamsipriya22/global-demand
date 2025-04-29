@@ -63,8 +63,6 @@ const countryData = {
     "Turkey": { "color": "#6699FF", "link": "https://www.kaggle.com/datasets/dharanikra/electrical-power-demand-in-turkey" }   
 };
 
- "Albania": { "color": "#FFA500", "link": " "},
-
 // Load country boundaries from GeoJSON
 map.on('load', function () {
     fetch('https://raw.githubusercontent.com/johan/world.geo.json/master/countries.geo.json')
