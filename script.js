@@ -51,7 +51,7 @@ const countryData = {
     "United Kingdom": { "color": "#FFCC33", "link": "https://transparency.entsoe.eu/load-domain/r2/totalLoadR2/show?name=&defaultValue=false&viewType=TABLE&areaType=CTY&atch=false&dateTime.dateTime=14.03.2024+00:00|CET|DAY&biddingZone.values=CTY|10Y1001A1001A92E!CTY|10Y1001A1001A92E&dateTime.timezone=CET_CEST&dateTime.timezone_input=CET+(UTC+1)+/+CEST+(UTC+2) "},
     "Canada": { "color": "#FF6F61", "link": "https://energy-information.canada.ca/en/resources/high-frequency-electricity-data"},
     "Argentina": { "color": "#FFC1C1", "link": "https://api.cammesa.com/demanda-svc/swagger-ui.html#/demanda-ws" }, 
-    "Brazil": { "color": "#FF0000", "link": "https://dados.ons.org.br/dataset/curva-carga" },
+    "Brazil": { "color": "#CC0000", "link": "https://dados.ons.org.br/dataset/curva-carga" },
     "Colombia": { "color": "#FF6666", "link": "https://dados.ons.org.br/dataset/curva-carga" },
     "Chile": { "color": "#990000", "link": "https://www.coordinador.cl/operacion/graficos/operacion-real/demanda-real/" },    
     "Peru": { "color": "#330000", "link": "https://www.coes.org.pe/Portal/portalinformacion/demanda" }, 
