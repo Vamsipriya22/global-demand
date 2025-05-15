@@ -52,7 +52,7 @@ const countryData = {
     "Canada": { "color": "#FF6F61", "link": "https://energy-information.canada.ca/en/resources/high-frequency-electricity-data"},
     "Argentina": { "color": "#FFC1C1", "link": "https://api.cammesa.com/demanda-svc/swagger-ui.html#/demanda-ws" }, 
     "Brazil": { "color": "#CC0000", "link": "https://dados.ons.org.br/dataset/curva-carga" },
-    "Colombia": { "color": "#FF6666", "link": "https://dados.ons.org.br/dataset/curva-carga" },
+    "Colombia": { "color": "#FF4D4D", "link": "https://dados.ons.org.br/dataset/curva-carga" },
     "Chile": { "color": "#990000", "link": "https://www.coordinador.cl/operacion/graficos/operacion-real/demanda-real/" },    
     "Peru": { "color": "#330000", "link": "https://www.coes.org.pe/Portal/portalinformacion/demanda" }, 
     "Bolivia": { "color": "#660000", "link": "https://www.coes.org.pe/Portal/portalinformacion/demanda" },     
