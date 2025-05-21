@@ -48,12 +48,7 @@ const countryData = {
     "Sweden": { "color": "#267326", "link": "https://transparency.entsoe.eu/load-domain/r2/totalLoadR2/show?name=&defaultValue=false&viewType=TABLE&areaType=CTY&atch=false&dateTime.dateTime=14.03.2024+00:00|CET|DAY&biddingZone.values=CTY|10YSE-1--------K!CTY|10YSE-1--------K&dateTime.timezone=CET_CEST&dateTime.timezone_input=CET+(UTC+1)+/+CEST+(UTC+2) "},
     "Switzerland": { "color": "#267326", "link": "https://transparency.entsoe.eu/load-domain/r2/totalLoadR2/show?name=&defaultValue=false&viewType=TABLE&areaType=CTY&atch=false&dateTime.dateTime=14.03.2024+00:00|CET|DAY&biddingZone.values=CTY|10YCH-SWISSGRIDZ!CTY|10YCH-SWISSGRIDZ&dateTime.timezone=CET_CEST&dateTime.timezone_input=CET+(UTC+1)+/+CEST+(UTC+2) "},
     "Ukraine": { "color": "#80C080", "link": "https://transparency.entsoe.eu/load-domain/r2/totalLoadR2/show?name=&defaultValue=false&viewType=TABLE&areaType=CTY&atch=false&dateTime.dateTime=01.01.2022+00:00|CET|DAY&biddingZone.values=CTY|10Y1001C--00003F!CTY|10Y1001C--00003F&dateTime.timezone=CET_CEST&dateTime.timezone_input=CET+(UTC+1)+/+CEST+(UTC+2) "},
-    "United Kingdom": { "color": "#80C080", "link": "https://transparency.entsoe.eu/load-domain/r2/totalLoadR2/show?name=&defaultValue=false&viewType=TABLE&areaType=CTY&atch=false&dateTime.dateTime=14.03.2024+00:00|CET|DAY&biddingZone.values=CTY|10Y1001A1001A92E!CTY|10Y1001A1001A92E&dateTime.timezone=CET_CEST&dateTime.timezone_input=CET+(UTC+1)+/+CEST+(UTC+2) "},
-    "Canada": { "color": "#B2D8B2", "link": "https://energy-information.canada.ca/en/resources/high-frequency-electricity-data"},
-    "Argentina": { "color": "#B2D8B2", "link": "https://cammesaweb.cammesa.com/" }, 
-    "Brazil": { "color": "#0D400D", "link": "https://dados.ons.org.br/dataset/curva-carga" },
-    "Chile": { "color": "#0D400D", "link": "https://www.coordinador.cl/operacion/graficos/operacion-real/demanda-real/" },    
-    "Peru": { "color": "#0D400D", "link": "https://www.coes.org.pe/Portal/portalinformacion/demanda" },    
+    "United Kingdom": { "color": "#80C080", "link": "https://transparency.entsoe.eu/load-domain/r2/totalLoadR2/show?name=&defaultValue=false&viewType=TABLE&areaType=CTY&atch=false&dateTime.dateTime=14.03.2024+00:00|CET|DAY&biddingZone.values=CTY|10Y1001A1001A92E!CTY|10Y1001A1001A92E&dateTime.timezone=CET_CEST&dateTime.timezone_input=CET+(UTC+1)+/+CEST+(UTC+2) "},   
     "Australia": { "color": "#0D400D", "link": "https://www.aemo.com.au/energy-systems/electricity/national-electricity-market-nem/data-nem/aggregated-data" },
     "New Zealand": { "color": "#0D400D", "link": "https://www.emi.ea.govt.nz/Wholesale/Reports/W_GD_C" },
     "Algeria": { "color": "#80C080", "link": "https://data.mendeley.com/datasets/z5x2d3mhw7/1" },
@@ -61,7 +56,12 @@ const countryData = {
     "South Africa": { "color": "#80C080", "link": "https://www.eskom.co.za/dataportal/data-request-form/" },  
     "Japan": { "color": "#80C080", "link": "https://www.tepco.co.jp/en/forecast/html/download-e.html" },
     "Sri Lanka": { "color": "#B2D8B2", "link": "https://gendata.pucsl.gov.lk/generation-profile" },
-    "Turkey": { "color": "#B2D8B2", "link": "https://seffaflik.epias.com.tr/electricity/electricity-consumption/ex-post-consumption/real-time-consumption" }   
+    "Turkey": { "color": "#B2D8B2", "link": "https://seffaflik.epias.com.tr/electricity/electricity-consumption/ex-post-consumption/real-time-consumption" },
+    "Canada": { "color": "#B2D8B2", "link": "https://energy-information.canada.ca/en/resources/high-frequency-electricity-data"},
+    "Argentina": { "color": "#B2D8B2", "link": "https://cammesaweb.cammesa.com/" }, 
+    "Brazil": { "color": "#0D400D", "link": "https://dados.ons.org.br/dataset/curva-carga" },
+    "Chile": { "color": "#0D400D", "link": "https://www.coordinador.cl/operacion/graficos/operacion-real/demanda-real/" },    
+    "Peru": { "color": "#0D400D", "link": "https://www.coes.org.pe/Portal/portalinformacion/demanda" }
 };
 
 // Load country boundaries from GeoJSON
