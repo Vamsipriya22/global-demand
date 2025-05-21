@@ -50,18 +50,18 @@ const countryData = {
     "Ukraine": { "color": "#FF4D4D", "link": "https://transparency.entsoe.eu/load-domain/r2/totalLoadR2/show?name=&defaultValue=false&viewType=TABLE&areaType=CTY&atch=false&dateTime.dateTime=01.01.2022+00:00|CET|DAY&biddingZone.values=CTY|10Y1001C--00003F!CTY|10Y1001C--00003F&dateTime.timezone=CET_CEST&dateTime.timezone_input=CET+(UTC+1)+/+CEST+(UTC+2) "},
     "United Kingdom": { "color": "#FF4D4D", "link": "https://transparency.entsoe.eu/load-domain/r2/totalLoadR2/show?name=&defaultValue=false&viewType=TABLE&areaType=CTY&atch=false&dateTime.dateTime=14.03.2024+00:00|CET|DAY&biddingZone.values=CTY|10Y1001A1001A92E!CTY|10Y1001A1001A92E&dateTime.timezone=CET_CEST&dateTime.timezone_input=CET+(UTC+1)+/+CEST+(UTC+2) "},
     "Canada": { "color": "#FF9999", "link": "https://energy-information.canada.ca/en/resources/high-frequency-electricity-data"},
-    "Argentina": { "color": "#FF9999", "link": "https://api.cammesa.com/demanda-svc/swagger-ui.html#/demanda-ws" }, 
+    "Argentina": { "color": "#FF9999", "link": "https://cammesaweb.cammesa.com/" }, 
     "Brazil": { "color": "#660000", "link": "https://dados.ons.org.br/dataset/curva-carga" },
     "Chile": { "color": "#660000", "link": "https://www.coordinador.cl/operacion/graficos/operacion-real/demanda-real/" },    
     "Peru": { "color": "#660000", "link": "https://www.coes.org.pe/Portal/portalinformacion/demanda" },    
     "Australia": { "color": "#660000", "link": "https://www.aemo.com.au/energy-systems/electricity/national-electricity-market-nem/data-nem/aggregated-data" },
-    "New Zealand": { "color": "#660000", "link": "https://www.emi.ea.govt.nz/Wholesale/Reports/W_GD_C?DateFrom=20250212&DateTo=20250212&RegionType=NZ&_rsdr=D1&_si=_dr_RegionType|NZ,_dr__rsdr|L364D,_dr_DateFrom|20240213,_dr_DateTo|20250212,v|4" },
+    "New Zealand": { "color": "#660000", "link": "https://www.emi.ea.govt.nz/Wholesale/Reports/W_GD_C" },
     "Algeria": { "color": "#FF4D4D", "link": "https://data.mendeley.com/datasets/z5x2d3mhw7/1" },
     "Nigeria": { "color": "#FF9999", "link": "https://data.mendeley.com/datasets/pxvdm26rn7/2" },
-    "South Africa": { "color": "#FF4D4D", "link": "https://www.eskom.co.za/dataportal/demand-side/" },  
+    "South Africa": { "color": "#FF4D4D", "link": "https://www.eskom.co.za/dataportal/data-request-form/" },  
     "Japan": { "color": "#FF4D4D", "link": "https://www.tepco.co.jp/en/forecast/html/download-e.html" },
     "Sri Lanka": { "color": "#FF9999", "link": "https://gendata.pucsl.gov.lk/generation-profile" },
-    "Turkey": { "color": "#FF9999", "link": "https://www.kaggle.com/datasets/dharanikra/electrical-power-demand-in-turkey" }   
+    "Turkey": { "color": "#FF9999", "link": "https://seffaflik.epias.com.tr/electricity/electricity-consumption/ex-post-consumption/real-time-consumption" }   
 };
 
 // Load country boundaries from GeoJSON
