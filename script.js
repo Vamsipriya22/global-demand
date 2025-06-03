@@ -2,7 +2,7 @@
 const map = new maplibregl.Map({
     container: 'map',
     style: 'https://demotiles.maplibre.org/style.json', // Default MapLibre style
-    center: [12, 48], // [Longitude, Latitude]
+    center: [12, 44], // [Longitude, Latitude]
     zoom: 1.5,
     pitch: 0,
     bearing: 0,
