@@ -3,8 +3,8 @@ const map = new maplibregl.Map({
     container: 'map',
     style: 'https://demotiles.maplibre.org/style.json', // Default MapLibre style
     center: [0, 20], // [Longitude, Latitude]
-    zoom: 1.5,
-    pitch: 30,
+    zoom: 1.6,
+    pitch: 70,
     bearing: 0,
     antialias: true
 });
