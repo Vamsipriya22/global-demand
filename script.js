@@ -219,7 +219,7 @@ const countryData = {
     color: "#267326",
     link: "https://www.cenace.gob.mx/Paginas/SIM/Reportes/EstimacionDemandaReal.aspx",
   },
-  "United States": {
+  "United States of America": {
     color: "#267326",
     link: "https://github.com/truggles/EIA_Cleaned_Hourly_Electricity_Demand_Data/tree/master/data/release_2020_Oct/regions",
   },
