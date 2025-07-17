@@ -12,7 +12,7 @@ const map = new maplibregl.Map({
 // Sample demand data with country colors and links
 const countryData = {
   Algeria: {
-    color: "#67B367",
+    color: "#267326",
     link: "https://data.mendeley.com/datasets/z5x2d3mhw7/1",
   },
   Nigeria: {
@@ -20,7 +20,7 @@ const countryData = {
     link: "https://data.mendeley.com/datasets/pxvdm26rn7/2",
   },
   "South Africa": {
-    color: "#67B367",
+    color: "#267326",
     link: "https://www.eskom.co.za/dataportal/data-request-form/",
   },
   China: {
@@ -132,7 +132,7 @@ const countryData = {
     link: "https://transparency.entsoe.eu/load-domain/r2/totalLoadR2/show?name=&defaultValue=false&viewType=TABLE&areaType=CTY&atch=false&dateTime.dateTime=14.03.2024+00:00|CET|DAY&biddingZone.values=CTY|10YIT-GRTN-----B!CTY|10YIT-GRTN-----B&dateTime.timezone=CET_CEST&dateTime.timezone_input=CET+(UTC+1)+/+CEST+(UTC+2) ",
   },
   Kosovo: {
-    color: "#B2D8B2",
+    color: "#67B367",
     link: "https://transparency.entsoe.eu/load-domain/r2/totalLoadR2/show?name=&defaultValue=false&viewType=TABLE&areaType=CTY&atch=false&dateTime.dateTime=14.03.2024+00:00|CET|DAY&biddingZone.values=CTY|10Y1001C--00100H!CTY|10Y1001C--00100H&dateTime.timezone=CET_CEST&dateTime.timezone_input=CET+(UTC+1)+/+CEST+(UTC+2) ",
   },
   Latvia: {
@@ -184,7 +184,7 @@ const countryData = {
     link: "https://transparency.entsoe.eu/load-domain/r2/totalLoadR2/show?name=&defaultValue=false&viewType=TABLE&areaType=CTY&atch=false&dateTime.dateTime=13.03.2025+00:00|CET|DAY&biddingZone.values=CTY|10YCS-SERBIATSOV!CTY|10YCS-SERBIATSOV&dateTime.timezone=CET_CEST&dateTime.timezone_input=CET+(UTC+1)+/+CEST+(UTC+2) ",
   },
   Slovakia: {
-    color: "#267326",
+    color: "#B2D8B2",
     link: "https://transparency.entsoe.eu/load-domain/r2/totalLoadR2/show?name=&defaultValue=false&viewType=TABLE&areaType=CTY&atch=false&dateTime.dateTime=13.03.2025+00:00|CET|DAY&biddingZone.values=CTY|10YSK-SEPS-----K!CTY|10YSK-SEPS-----K&dateTime.timezone=CET_CEST&dateTime.timezone_input=CET+(UTC+1)+/+CEST+(UTC+2) ",
   },
   Slovenia: {
