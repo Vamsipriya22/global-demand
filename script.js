@@ -45,7 +45,7 @@ const countryData = {
   },
   "South Korea": {
     color: "#267326",
-    link: "https://www.data.go.kr/en/data/15065266/fileData.do#",
+    link: "https://www.data.go.kr/en/data/15065266/fileData.do#layer_data_infomation",
   },
   "Sri Lanka": {
     color: "#B2D8B2",
