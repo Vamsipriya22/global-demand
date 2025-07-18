@@ -44,7 +44,7 @@ const countryData = {
     link: "https://www.ngcp.ph/operations#operations",
   },
   "South Korea": {
-    color: "#B2D8B2",
+    color: "#267326",
     link: "https://www.data.go.kr/en/data/15065266/fileData.do#",
   },
   "Sri Lanka": {
