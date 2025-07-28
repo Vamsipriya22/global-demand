@@ -20,7 +20,7 @@ const countryData = {
     link: "https://data.mendeley.com/datasets/pxvdm26rn7/2",
   },
   "South Africa": {
-    color: "#267326",
+    color: "#67B367",
     link: "https://www.eskom.co.za/dataportal/data-request-form/",
   },
   China: {
