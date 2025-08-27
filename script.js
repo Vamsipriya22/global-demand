@@ -243,7 +243,6 @@ const countryData = {
     color: "#0D400D",
     link: "https://www.coes.org.pe/Portal/portalinformacion/demanda",
   },
-
   Australia: {
     color: "#0D400D",
     link: "https://www.aemo.com.au/energy-systems/electricity/national-electricity-market-nem/data-nem/aggregated-data",
