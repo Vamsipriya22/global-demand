@@ -231,6 +231,10 @@ const countryData = {
     color: "#267326",
     link: "https://www.cenace.gob.mx/Paginas/SIM/Reportes/EstimacionDemandaReal.aspx",
   },
+  Panama: {
+    color: "#67B367",
+    link: "https://data.mendeley.com/datasets/tcmmj4t6f4/1",
+  },
   "United States of America": {
     color: "#267326",
     link: "https://github.com/truggles/EIA_Cleaned_Hourly_Electricity_Demand_Data/tree/master/data/release_2020_Oct/regions",
@@ -257,7 +261,7 @@ const countryData = {
   },
   Uruguay: {
     color: "#67B367",
-    link: "https://adme.com.uy/panelControl/gpf.php",
+    link: "https://adme.com.uy/controlpanel.php",
   },
   Australia: {
     color: "#0D400D",
