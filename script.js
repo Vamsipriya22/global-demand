@@ -255,6 +255,10 @@ const countryData = {
     color: "#0D400D",
     link: "https://www.coes.org.pe/Portal/portalinformacion/demanda",
   },
+  Uruguay: {
+    color: "#67B367",
+    link: "https://adme.com.uy/panelControl/gpf.php",
+  },
   Australia: {
     color: "#0D400D",
     link: "https://www.aemo.com.au/energy-systems/electricity/national-electricity-market-nem/data-nem/aggregated-data",
