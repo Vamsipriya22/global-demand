@@ -346,6 +346,11 @@ Python code for downloading, extracting, and processing the available data can b
 
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CENACE](https://www.cenace.gob.mx/Paginas/SIM/Reportes/EstimacionDemandaReal.aspx) | 2016-present | 60-min resolution | [All rights reserved](https://www.gob.mx/terminos)
 
+- #### Panama
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Mendeley](https://data.mendeley.com/datasets/tcmmj4t6f4/1) | 2016-2020 | 60-min resolution | [CC-BY 4.0](https://data.mendeley.com/public-files/datasets/tcmmj4t6f4/files/1b23f797-b28e-445b-85ef-e8c773922a23/file_downloaded)
+
+
 - #### United States
 
   - ##### California
@@ -447,6 +452,11 @@ Python code for downloading, extracting, and processing the available data can b
 - #### Peru
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[COES](https://www.coes.org.pe/Portal/portalinformacion/demanda) | 1997-present | 30-min resolution | [Non-commercial use](https://www.coes.org.pe/Portal/Organizacion/TerminosyCondiciones)
+
+- #### Uruguay
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ADME](https://adme.com.uy/controlpanel.php) | 2019-2025 | 60-min resolution | [Open Data](https://adme.com.uy/datosabiertos.html)
+
 
 ### Oceania
 
