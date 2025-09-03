@@ -7,7 +7,6 @@ const map = new maplibregl.Map({
   pitch: 0,
   bearing: 0,
   antialias: true,
-  maxBounds: [[80, -180], [-25, 180]],
 });
 
 // Sample demand data with country colors and links
