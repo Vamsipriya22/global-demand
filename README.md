@@ -16,6 +16,18 @@ Each data source is listed with essential metadata, such as the time range and f
 
 Python code for downloading, extracting, and processing the available data can be found in our companion repository: [DemandCast](https://github.com/open-energy-transition/demandcast).
 
+## Data Source Log
+
+📁 **[data_source_log](https://docs.google.com/spreadsheets/d/1qnGaXWZqT-xwbGeqDAFHkTN0VhoFUfKwtAD29n9HeFE/edit?gid=1036252638#gid=1036252638)**  
+
+This spreadsheet documents the countries and subdivisions that have been explored for hourly or sub-hourly electricity demand data, but where no such data has yet been found. It is also designed to help other researchers avoid duplicating effort and to build a shared knowledge base.
+
+## Contributions
+
+Contributions are welcome in the form of new links to websites that provide hourly or sub-hourly electricity demand data, including information on data availability timelines and licensing conditions.
+- Use [GitHub Issues](https://github.com/open-energy-transition/Awesome-Electricity-Demand/issues) for data requests or suggestions.
+- Submit [Pull Requests](https://github.com/open-energy-transition/Awesome-Electricity-Demand/pulls) for adding new data sources or enhancing metadata.
+
 ## List of data sources
 
 ### Africa
@@ -33,9 +45,6 @@ Python code for downloading, extracting, and processing the available data can b
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ESKOM](https://www.eskom.co.za/dataportal/data-request-form/) | 2021-present | 60-min resolution |  [Access upon request – Non-commercial use](https://www.eskom.co.za/wp-content/uploads/2021/10/WEBSITE-TERMS-AND-CONDITIONS_Sep2021.pdf)
  
 ### Asia
-- #### Bangladesh
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PGCB](https://erp.powergrid.gov.bd/w/report/eyJpdiI6IldsU2ZQTGkvbkRnQU9FMjZ5UHhmeGc9PSIsInZhbHVlIjoiQzhONVl5ZGxRY3E3T3ZVNCtLZGt1Zz09IiwibWFjIjoiN2JiNTI5MzNhOWIxZDVjY2NkMmFlZWU4ZDU1N2I4OWZlYjNlZWM1ZGU4NzRiNWU4ZjQ3ZDc1ODRlMTk3MDc0YyIsInRhZyI6IiJ9/show_report) | 2014-present | 30-min resolution | [All rights reserved](https://pgcb.gov.bd/)
   
 - #### China
 
@@ -52,11 +61,6 @@ Python code for downloading, extracting, and processing the available data can b
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[TEPCO](https://www.tepco.co.jp/en/forecast/html/download-e.html) | 2016-2021 | 60-min resolution | [Personal use](https://www4.tepco.co.jp/en/pg/legal/index-e.html)
 
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[TEPCO](https://www.tepco.co.jp/en/forecast/html/download-e.html) | 2022-present | 5-min resolution | [Personal use](https://www4.tepco.co.jp/en/pg/legal/index-e.html)
-
-- #### Nepal
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Open Data Nepal](https://opendatanepal.com/dataset/electricity-load-profile-of-nepal-in-2073-nepal-electricity-authority) | 2016-2017 | 60-min resolution | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-
 
 - #### Pakistan
 
@@ -502,12 +506,3 @@ Python code for downloading, extracting, and processing the available data can b
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[EMI](https://www.emi.ea.govt.nz/Wholesale/Reports/W_GD_C) | 2005-present | 30-min resolution | [CC-BY 4.0](https://www.emi.ea.govt.nz/LegalInformation)
 
-## Data Source Log
-
-📁 **[data_source_log](https://docs.google.com/spreadsheets/d/1qnGaXWZqT-xwbGeqDAFHkTN0VhoFUfKwtAD29n9HeFE/edit?gid=0#gid=0)**  
-
-This spreadsheet documents the countries and subdivisions that have been explored for hourly or sub-hourly electricity demand data, but where no such data has yet been found. It is also designed to help other researchers avoid duplicating effort and to build a shared knowledge base.
-
-## Contributions
-
-Contributions are welcome in the form of new links to websites that provide hourly or sub-hourly electricity demand data, including information on data availability timelines and licensing conditions.
