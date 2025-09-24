@@ -69,6 +69,10 @@ const map = new maplibregl.Map({
       color: "#67B367",
       link: "https://zenodo.org/records/7537890",
     },
+    Thailand: {
+      color: "#B2D8B2",
+      link: "https://zenodo.org/records/17109911",
+    },
     Turkey: {
       color: "#267326",
       link: "https://seffaflik.epias.com.tr/electricity/electricity-consumption/ex-post-consumption/real-time-consumption",
