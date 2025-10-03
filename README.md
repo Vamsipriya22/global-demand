@@ -65,6 +65,10 @@ Contributions are welcome in the form of new links to websites that provide hour
 
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[TEPCO](https://www.tepco.co.jp/en/forecast/html/download-e.html) | 2022-present | 5-min resolution | [Personal use](https://www4.tepco.co.jp/en/pg/legal/index-e.html)
 
+  - ##### Kansai
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[KANSAI](https://www.kansai-td.co.jp/english/home/denkiyoho/area-performance/past.html#:~:text=Financial%20) | 2016-present | 60-min resolution | [Personal use](https://www.kansai-td.co.jp/english/siteinfo/)
+
 - #### Malaysia
 
   - ##### Johor
