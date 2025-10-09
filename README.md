@@ -333,6 +333,10 @@ Contributions are welcome in the form of new links to websites that provide hour
 
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CCEI](https://energy-information.canada.ca/en/resources/high-frequency-electricity-data) | 2024-present | 5-min resolution | [Non-commercial reproduction](https://www.canada.ca/en/transparency/terms.html)
 
+- #### Costa Rica
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GrupoICE](https://apps.grupoice.com/CenceWeb/paginas/CurvaDemanda.html?fecha=08/09/2025) | 2012-present | 15-min resolution | [All rights reserved](https://apps.grupoice.com/CenceWeb)
+
 - #### Mexico
 
   - ##### Baja California
@@ -382,6 +386,8 @@ Contributions are welcome in the form of new links to websites that provide hour
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[EIA](https://github.com/truggles/EIA_Cleaned_Hourly_Electricity_Demand_Data/blob/master/data/release_2020_Oct/regions/CAL.csv) | 2015-2020 | 60-min resolution | [Use for any purpose with attribution](https://www.eia.gov/about/copyrights_reuse.php)
  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[EIA](https://www.eia.gov/electricity/gridmonitor/dashboard/electric_overview/regional/REG-CAL) | 2020-present | 60-min resolution | [Use for any purpose with attribution](https://www.eia.gov/about/copyrights_reuse.php)
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CAISO](https://www.caiso.com/library/historical-ems-hourly-load) | 2019-present | 60-min resolution | [Use for any purpose with attribution](https://www.caiso.com/privacy-terms-of-use)
 
   - ##### Carolinas
  
