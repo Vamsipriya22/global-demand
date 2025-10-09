@@ -45,6 +45,7 @@ Contributions are welcome in the form of new links to websites that provide hour
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ESKOM](https://www.eskom.co.za/dataportal/data-request-form/) | 2021-present | 60-min resolution |  [Access upon request – Non-commercial use](https://www.eskom.co.za/wp-content/uploads/2021/10/WEBSITE-TERMS-AND-CONDITIONS_Sep2021.pdf)
  
 ### Asia
+
 - #### Bangladesh
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PGCB](https://erp.powergrid.gov.bd/w/report/eyJpdiI6IldsU2ZQTGkvbkRnQU9FMjZ5UHhmeGc9PSIsInZhbHVlIjoiQzhONVl5ZGxRY3E3T3ZVNCtLZGt1Zz09IiwibWFjIjoiN2JiNTI5MzNhOWIxZDVjY2NkMmFlZWU4ZDU1N2I4OWZlYjNlZWM1ZGU4NzRiNWU4ZjQ3ZDc1ODRlMTk3MDc0YyIsInRhZyI6IiJ9/show_report) | 2014-present | 30-min resolution | [All rights reserved](https://pgcb.gov.bd/)
@@ -78,7 +79,6 @@ Contributions are welcome in the form of new links to websites that provide hour
 - #### Nepal
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Open Data Nepal](https://opendatanepal.com/dataset/electricity-load-profile-of-nepal-in-2073-nepal-electricity-authority) | 2016-2017 | 60-min resolution | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-
 - #### Pakistan
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[NTDC](https://www.kaggle.com/datasets/tentative/ntdc-dataset) | 2015-2020 | 60-min resolution | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
@@ -375,7 +375,6 @@ Contributions are welcome in the form of new links to websites that provide hour
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Mendeley](https://data.mendeley.com/datasets/tcmmj4t6f4/1) | 2016-2020 | 60-min resolution | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-
 - #### United States
 
   - ##### California
@@ -481,7 +480,6 @@ Contributions are welcome in the form of new links to websites that provide hour
 - #### Uruguay
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ADME](https://adme.com.uy/controlpanel.php) | 2019-2025 | 60-min resolution | [Open Data](https://adme.com.uy/datosabiertos.html)
-
 
 ### Oceania
 
