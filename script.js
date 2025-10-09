@@ -237,6 +237,10 @@ const map = new maplibregl.Map({
       color: "#0D400D",
       link: "https://energy-information.canada.ca/en/resources/high-frequency-electricity-data",
     },
+    "Costa Rica": {
+      color: "#267326",
+      link: "https://apps.grupoice.com/CenceWeb/paginas/CurvaDemanda.html?fecha=08/09/2025",
+    },
     Mexico: {
       color: "#267326",
       link: "https://www.cenace.gob.mx/Paginas/SIM/Reportes/EstimacionDemandaReal.aspx",
