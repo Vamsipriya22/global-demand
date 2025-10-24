@@ -70,12 +70,6 @@ Contributions are welcome in the form of new links to websites that provide hour
 
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[KANSAI](https://www.kansai-td.co.jp/english/home/denkiyoho/area-performance/past.html#:~:text=Financial%20) | 2016-present | 60-min resolution | [Personal use](https://www.kansai-td.co.jp/english/siteinfo/)
 
-- #### Malaysia
-
-  - ##### Johor
-
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Mendeley](https://data.mendeley.com/datasets/f4fcrh4tn9/1#:~:text=This%20is%20hourly%20load%20data,for%20Energy%3A%20The%20International%20Journal) | 2009-2010 | 60-min resolution | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-
 - #### Nepal
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Open Data Nepal](https://opendatanepal.com/dataset/electricity-load-profile-of-nepal-in-2073-nepal-electricity-authority) | 2016-2017 | 60-min resolution | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
@@ -335,7 +329,7 @@ Contributions are welcome in the form of new links to websites that provide hour
 
 - #### Costa Rica
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GrupoICE](https://apps.grupoice.com/CenceWeb/paginas/CurvaDemanda.html?fecha=08/09/2025) | 2012-present | 15-min resolution | [All rights reserved](https://apps.grupoice.com/CenceWeb)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GrupoICE](https://apps.grupoice.com/CenceWeb) | 2012-present | 60-min resolution | [Open data](https://www.grupoice.com/wps/wcm/connect/328d1cc7-6796-44cb-a981-8dca6043c983/Reglamento_funcionamiento_CENCE.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-328d1cc7-6796-44cb-a981-8dca6043c983-nWcNMD.)
 
 - #### Mexico
 
@@ -383,11 +377,11 @@ Contributions are welcome in the form of new links to websites that provide hour
 
   - ##### California
  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CAISO](https://www.caiso.com/library/historical-ems-hourly-load) | 2019-present | 60-min resolution | [Use for any purpose with attribution](https://www.caiso.com/privacy-terms-of-use)
+ 
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[EIA](https://github.com/truggles/EIA_Cleaned_Hourly_Electricity_Demand_Data/blob/master/data/release_2020_Oct/regions/CAL.csv) | 2015-2020 | 60-min resolution | [Use for any purpose with attribution](https://www.eia.gov/about/copyrights_reuse.php)
  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[EIA](https://www.eia.gov/electricity/gridmonitor/dashboard/electric_overview/regional/REG-CAL) | 2020-present | 60-min resolution | [Use for any purpose with attribution](https://www.eia.gov/about/copyrights_reuse.php)
-
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CAISO](https://www.caiso.com/library/historical-ems-hourly-load) | 2019-present | 60-min resolution | [Use for any purpose with attribution](https://www.caiso.com/privacy-terms-of-use)
 
   - ##### Carolinas
  
@@ -530,4 +524,3 @@ Contributions are welcome in the form of new links to websites that provide hour
 - #### New Zealand
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[EMI](https://www.emi.ea.govt.nz/Wholesale/Reports/W_GD_C) | 2005-present | 30-min resolution | [CC-BY 4.0](https://www.emi.ea.govt.nz/LegalInformation)
-
